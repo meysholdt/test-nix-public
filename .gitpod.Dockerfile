@@ -36,4 +36,4 @@ RUN . /home/gitpod/.nix-profile/etc/profile.d/nix.sh \
   && direnv hook bash >> /home/gitpod/.bashrc
   
   
-ENV x=2
+ENV x=3
